@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181039051299",
+    "project_id": "rejolute",
+    "storage_bucket": "rejolute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181039051299:android:5eb36199078d02f4aaf796",
+        "android_client_info": {
+          "package_name": "com.example.rejolute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181039051299-knciudfuhibc0crmna0mjiq48ppm02ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGw5-9lWYpNKfrF_1rJyF87YFjUKHq7aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181039051299-knciudfuhibc0crmna0mjiq48ppm02ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
